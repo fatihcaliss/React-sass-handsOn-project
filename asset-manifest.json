@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-sass-handsOn-project/static/css/main.e9d523fb.css",
+    "main.js": "/React-sass-handsOn-project/static/js/main.df3a304d.js",
+    "index.html": "/React-sass-handsOn-project/index.html",
+    "main.e9d523fb.css.map": "/React-sass-handsOn-project/static/css/main.e9d523fb.css.map",
+    "main.df3a304d.js.map": "/React-sass-handsOn-project/static/js/main.df3a304d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9d523fb.css",
+    "static/js/main.df3a304d.js"
+  ]
+}
