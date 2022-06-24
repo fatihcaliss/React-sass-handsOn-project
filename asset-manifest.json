@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-sass-handsOn-project/static/css/main.9642eaa5.css",
-    "main.js": "/React-sass-handsOn-project/static/js/main.8f7e51c5.js",
+    "main.js": "/React-sass-handsOn-project/static/js/main.8640160c.js",
     "index.html": "/React-sass-handsOn-project/index.html",
     "main.9642eaa5.css.map": "/React-sass-handsOn-project/static/css/main.9642eaa5.css.map",
-    "main.8f7e51c5.js.map": "/React-sass-handsOn-project/static/js/main.8f7e51c5.js.map"
+    "main.8640160c.js.map": "/React-sass-handsOn-project/static/js/main.8640160c.js.map"
   },
   "entrypoints": [
     "static/css/main.9642eaa5.css",
-    "static/js/main.8f7e51c5.js"
+    "static/js/main.8640160c.js"
   ]
 }
