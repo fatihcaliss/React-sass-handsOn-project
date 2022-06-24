@@ -6,6 +6,7 @@ import Header from "./components/Header";
 import "./scss/App.scss";
 import data from "./data";
 console.log("asd");
+console.log("deneme2");
 function App() {
   return (
     <>
