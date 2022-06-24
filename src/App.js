@@ -5,7 +5,6 @@ import Header from "./components/Header";
 
 import "./scss/App.scss";
 import data from "./data";
-console.log("deneme");
 function App() {
   return (
     <>
